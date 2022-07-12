@@ -89,4 +89,4 @@ switch (true) {
     console.log("Q4: You're there. Well done!");
 }
 
-// Well, it's possible to use both at any instance where we need decision making. But i think, switch statments are way shorter
+// Well, it's possible to use both at any instance where we need decision making. But i think, switch statments are way shorter and easy to read 
